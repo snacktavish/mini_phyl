@@ -12,7 +12,7 @@
 "xsd": "http://www.w3.org/2001/XMLSchema#", 
 "xsi": "http://www.w3.org/2001/XMLSchema-instance"
 }, 
-"^acount": 3, 
+"^acount": 1, 
 "^bogus_timestamp": "2014-03-18T20:11:43.259176", 
 "^ot:agents": {
 "agent": [
@@ -2673,7 +2673,7 @@
 "^ot:treesElementOrder": [
 "trees9"
 ], 
-"^zcount": 6, 
+"^zcount": 7, 
 "otusById": {
 "otus9": {
 "otuById": {

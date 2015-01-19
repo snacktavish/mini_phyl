@@ -7620,7 +7620,7 @@
 }, 
 "node504": {
 "@otu": "otu127", 
-"^ot:ottTaxonName": "Spinacia"
+"^ot:ottTaxonName": "Spinacia_diff"
 }
 }
 }

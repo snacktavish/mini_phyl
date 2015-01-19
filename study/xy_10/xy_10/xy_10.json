@@ -31,7 +31,7 @@
 "otus10": {
 "otuById": {
 "otu128": {
-"@label": "Cycas", 
+"@label": "Cycas_diff", 
 "^ot:originalLabel": "Cycas", 
 "^ot:ottId": 99238, 
 "^ot:ottTaxonName": "Cycas"
